@@ -28,6 +28,7 @@ pip install virtualenvwrapper
 echo "------------------------------"
 echo "Source virtualenvwrapper from ~/.extra"
 
+BASH_PROFILE_PATH=~/.bash_profile
 EXTRA_PATH=~/.extra
 echo $EXTRA_PATH
 echo "" >> $EXTRA_PATH
